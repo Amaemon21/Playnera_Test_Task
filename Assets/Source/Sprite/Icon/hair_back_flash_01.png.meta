@@ -1,0 +1,527 @@
+fileFormatVersion: 2
+guid: 330b6f79480f05a41b311c72874cacbe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7483724660919329105
+    second: hair_back_flash_01_0
+  - first:
+      213: 1523792359039131621
+    second: hair_back_flash_01_1
+  - first:
+      213: 5048396098010246004
+    second: hair_back_flash_01_2
+  - first:
+      213: 8481035638213942997
+    second: hair_back_flash_01_3
+  - first:
+      213: -3777610515050045556
+    second: hair_back_flash_01_4
+  - first:
+      213: -5356528152999211802
+    second: hair_back_flash_01_5
+  - first:
+      213: -4872519693322669164
+    second: hair_back_flash_01_6
+  - first:
+      213: -8345733250852136771
+    second: hair_back_flash_01_7
+  - first:
+      213: 4277677425012595145
+    second: hair_back_flash_01_8
+  - first:
+      213: 2684205142760199185
+    second: hair_back_flash_01_9
+  - first:
+      213: -3777953514134985812
+    second: hair_back_flash_01_10
+  - first:
+      213: 8058416923156087965
+    second: hair_back_flash_01_11
+  - first:
+      213: 2987676461639628289
+    second: hair_back_flash_01_12
+  - first:
+      213: -4586574318567189225
+    second: hair_back_flash_01_13
+  - first:
+      213: -1339730682852323993
+    second: hair_back_flash_01_14
+  - first:
+      213: -3826543976907368454
+    second: hair_back_flash_01_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hair_back_flash_01_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 103
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1516deabde78bd760800000000000000
+      internalID: 7483724660919329105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_back_flash_01_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 98
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef5bffb319952510800000000000000
+      internalID: 1523792359039131621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_back_flash_01_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 98
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b6e5be0818f0640800000000000000
+      internalID: 5048396098010246004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_back_flash_01_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 103
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de9b2f7af0b2b570800000000000000
+      internalID: 8481035638213942997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_back_flash_01_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f59ae404b339bc0800000000000000
+      internalID: -3777610515050045556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_back_flash_01_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 79
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec4a13660ac9a5b0800000000000000
+      internalID: -5356528152999211802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_back_flash_01_6
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 72
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49338669725516cb0800000000000000
+      internalID: -4872519693322669164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_back_flash_01_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 72
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8dac073dffd2c80800000000000000
+      internalID: -8345733250852136771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_back_flash_01_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 79
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9559534fc5d5b30800000000000000
+      internalID: 4277677425012595145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_back_flash_01_9
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 71
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1149f761b56304520800000000000000
+      internalID: 2684205142760199185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_back_flash_01_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 43
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3ab0c9b43029bc0800000000000000
+      internalID: -3777953514134985812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_back_flash_01_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 32
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9407bc0f7f35df60800000000000000
+      internalID: 8058416923156087965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_back_flash_01_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 43
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10673d799eb567920800000000000000
+      internalID: 2987676461639628289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_back_flash_01_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 32
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7159fdd35f63950c0800000000000000
+      internalID: -4586574318567189225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_back_flash_01_14
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 16
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d45e9ca02586de0800000000000000
+      internalID: -1339730682852323993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hair_back_flash_01_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 16
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af79603e68265eac0800000000000000
+      internalID: -3826543976907368454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      hair_back_flash_01_0: 7483724660919329105
+      hair_back_flash_01_1: 1523792359039131621
+      hair_back_flash_01_10: -3777953514134985812
+      hair_back_flash_01_11: 8058416923156087965
+      hair_back_flash_01_12: 2987676461639628289
+      hair_back_flash_01_13: -4586574318567189225
+      hair_back_flash_01_14: -1339730682852323993
+      hair_back_flash_01_15: -3826543976907368454
+      hair_back_flash_01_2: 5048396098010246004
+      hair_back_flash_01_3: 8481035638213942997
+      hair_back_flash_01_4: -3777610515050045556
+      hair_back_flash_01_5: -5356528152999211802
+      hair_back_flash_01_6: -4872519693322669164
+      hair_back_flash_01_7: -8345733250852136771
+      hair_back_flash_01_8: 4277677425012595145
+      hair_back_flash_01_9: 2684205142760199185
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

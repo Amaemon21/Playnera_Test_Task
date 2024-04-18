@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Icon SpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 0b02f245c38e4ce429241fc1562dc545, type: 3}
+    - {fileID: 2800000, guid: b175b9afe797c2942ae12496f7be5596, type: 3}
+    - {fileID: 2800000, guid: 242b2f0ff5175f14a9acd62d986bbb90, type: 3}
+    - {fileID: 2800000, guid: 4302188e486bc82498b4025d24a20e50, type: 3}
+    - {fileID: 2800000, guid: da2cbe3413f06164989d097c5d305366, type: 3}
+    - {fileID: 2800000, guid: c06d8267e1bb34744be1fe6c8f11ab25, type: 3}
+    - {fileID: 2800000, guid: 330b6f79480f05a41b311c72874cacbe, type: 3}
+    - {fileID: 2800000, guid: 4d91937d43b545943ae6c9a5d2bab32d, type: 3}
+    - {fileID: 2800000, guid: 247d722b546a5ea47bea6e375d20fc92, type: 3}
+    - {fileID: 2800000, guid: 0e37bdbf0c0563c409966ccb53f3df48, type: 3}
+    - {fileID: 2800000, guid: 84b1b1c0e05eeff49ba2b6354f35a223, type: 3}
+    - {fileID: 2800000, guid: 3aad0600b7436c840be86cead1c5e4e6, type: 3}
+    - {fileID: 2800000, guid: d902c0e6d6a06f74ebfa3ca06681fc33, type: 3}
+    - {fileID: 2800000, guid: 10642e8554c14e345b25d2c17158fd52, type: 3}
+    - {fileID: 2800000, guid: bdbf619144fefdc4db3b1bbcd74fea5b, type: 3}
+    - {fileID: 2800000, guid: e803e116c983fcc40b53d99dbe4a95f3, type: 3}
+    - {fileID: 2800000, guid: df01af6ae1b098c46ae16c4f9cff06f9, type: 3}
+    - {fileID: 2800000, guid: 9ab241dc5c454ce47a0acdc9ea0cc220, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 3aad0600b7436c840be86cead1c5e4e6: 21300000
+    - 84b1b1c0e05eeff49ba2b6354f35a223: 21300000
+    - bdbf619144fefdc4db3b1bbcd74fea5b: 21300000
+    - da2cbe3413f06164989d097c5d305366: 21300000
+    - 0b02f245c38e4ce429241fc1562dc545: 21300000
+    - 10642e8554c14e345b25d2c17158fd52: 21300000
+    - e803e116c983fcc40b53d99dbe4a95f3: 21300000
+    - d902c0e6d6a06f74ebfa3ca06681fc33: 21300000
+    - c06d8267e1bb34744be1fe6c8f11ab25: 21300000
+    - 330b6f79480f05a41b311c72874cacbe: 21300000
+    - df01af6ae1b098c46ae16c4f9cff06f9: 21300000
+    - 247d722b546a5ea47bea6e375d20fc92: 21300000
+    - 9ab241dc5c454ce47a0acdc9ea0cc220: 21300000
+    - 4d91937d43b545943ae6c9a5d2bab32d: 21300000
+    - 4302188e486bc82498b4025d24a20e50: 21300000
+    - 242b2f0ff5175f14a9acd62d986bbb90: 21300000
+    - b175b9afe797c2942ae12496f7be5596: 21300000
+    - 0e37bdbf0c0563c409966ccb53f3df48: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3aad0600b7436c840be86cead1c5e4e6, type: 3}
+  - {fileID: 21300000, guid: 84b1b1c0e05eeff49ba2b6354f35a223, type: 3}
+  - {fileID: 21300000, guid: bdbf619144fefdc4db3b1bbcd74fea5b, type: 3}
+  - {fileID: 21300000, guid: da2cbe3413f06164989d097c5d305366, type: 3}
+  - {fileID: 21300000, guid: 0b02f245c38e4ce429241fc1562dc545, type: 3}
+  - {fileID: 21300000, guid: 10642e8554c14e345b25d2c17158fd52, type: 3}
+  - {fileID: 21300000, guid: e803e116c983fcc40b53d99dbe4a95f3, type: 3}
+  - {fileID: 21300000, guid: d902c0e6d6a06f74ebfa3ca06681fc33, type: 3}
+  - {fileID: 21300000, guid: c06d8267e1bb34744be1fe6c8f11ab25, type: 3}
+  - {fileID: 21300000, guid: 330b6f79480f05a41b311c72874cacbe, type: 3}
+  - {fileID: 21300000, guid: df01af6ae1b098c46ae16c4f9cff06f9, type: 3}
+  - {fileID: 21300000, guid: 247d722b546a5ea47bea6e375d20fc92, type: 3}
+  - {fileID: 21300000, guid: 9ab241dc5c454ce47a0acdc9ea0cc220, type: 3}
+  - {fileID: 21300000, guid: 4d91937d43b545943ae6c9a5d2bab32d, type: 3}
+  - {fileID: 21300000, guid: 4302188e486bc82498b4025d24a20e50, type: 3}
+  - {fileID: 21300000, guid: 242b2f0ff5175f14a9acd62d986bbb90, type: 3}
+  - {fileID: 21300000, guid: b175b9afe797c2942ae12496f7be5596, type: 3}
+  - {fileID: 21300000, guid: 0e37bdbf0c0563c409966ccb53f3df48, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - necklace_01
+  - lips_01
+  - sock_01_02
+  - eyebrows_01
+  - boots_01_01
+  - sock_01_01
+  - top_01
+  - nose
+  - hair_back_01
+  - hair_back_flash_01
+  - top_01_sleeve_1
+  - hair_front_flash_01
+  - top_01_sleeve_2
+  - hair_front_01
+  - eye_01
+  - bot_01
+  - boots_01_02
+  - headdress_01
+  m_RenderDataMap: {}
+  m_Tag: Icon SpriteAtlas
+  m_IsVariant: 0
